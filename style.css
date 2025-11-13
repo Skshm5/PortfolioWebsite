@@ -84,7 +84,7 @@ nav {
 }
 
 .home:hover{
-    transform: scale(1.05);
+    transform: scale(1.03);
 }
 
 /* TEXT SIDE */
@@ -342,4 +342,5 @@ footer {
         align-items: center;
     }
 }
+
 */
